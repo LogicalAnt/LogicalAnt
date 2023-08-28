@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="500">
-      <img align="left"  src="https://github-readme-stats.vercel.app/api?username=LogicalAnt&show_icons=true&theme=highcontrast"/>
+      <img align="left"  src="https://github-readme-stats.vercel.app/api?username=LogicalAnt&show_icons=true&theme=highcontrast&PAT_1"/>
     </td>
     <td>
       <p>  
