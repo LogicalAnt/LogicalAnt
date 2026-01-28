@@ -31,11 +31,8 @@
 </div>
 <hr/>
 
-
-- 🔭 I’m currently working on my pet project <a href="https://www.github.com/reactizard/plain-ui">plain-ui</a>, a lightweight component library
-- 🌱 I’m currently learning NextJs
 - 👯 I’m looking to collaborate on opensource/commercial project, feel free to ping me at [linkedin](https://www.linkedin.com/in/logicalant/) or [email](mailto:s.logicalant@gmail.com)
-- ⌚ Software engineer for 6+ years
+- ⌚ Software engineer for 7+ years
 
 
 <!--
